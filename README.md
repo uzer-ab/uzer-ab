@@ -39,7 +39,7 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzer-ab&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzer-ab&theme=github_dark" />
 </p>
 
 ---
