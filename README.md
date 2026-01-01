@@ -1,22 +1,3 @@
-ProfileMe.dev
-
-
-Introduction
-Skills
-Socials
-Badges
-Support
-Go home
-© 2026 Dan Cranney
-
-Follow me
-|
-Buy Me a Coffee
-Introduction
-Introduce yourself. Tell visitors about you and who you are.
-
-
-Next
 👋
 Hi! My name is:
 Uzair Ahmed
