@@ -20,7 +20,16 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,fastapi,flask,php,mysql,mongodb,postgres,aws,docker,git,redux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,fastapi,php,mysql,mongodb,postgres,aws,docker,git,redux,electron&perline=7" />
+</p>
+
+---
+
+### 🤖 AI Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
+  <img src="https://img.shields.io/badge/Claude_Code-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
 </p>
 
 ---
