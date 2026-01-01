@@ -36,11 +36,10 @@
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzer-ab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&hide=contribs" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzer-ab&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzer-ab&theme=tokyonight" />
 </p>
 
 ---
