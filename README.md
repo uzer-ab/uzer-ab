@@ -30,18 +30,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
   <img src="https://img.shields.io/badge/Claude_Code-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
 </p>
 
 ---
 
 ### 🏗️ What I Build
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **MindPad** | Full-stack notes app with JWT auth & Redux | React, Node.js, MongoDB, AWS |
-| **ChowPOS Online** | POS-integrated ordering platform with QR payments | PHP, React, MySQL |
-| **QR Attendance** | Employee check-in system with admin analytics | Python, React, MySQL |
-| **Automation Tools** | Web/OS automation for data extraction | Python, AWS Lambda |
+| Project                               | Description                                                    | Stack                               |
+| ------------------------------------- | -------------------------------------------------------------- | ----------------------------------- |
+| **Portfolio Website** _(In Progress)_ | Personal portfolio with dynamic project showcase & admin panel | Next.js, PostgreSQL                 |
+| **BX-Blogs**                          | Full-stack blog platform with rich text editor & JWT sessions  | React, Redux, Node.js, MongoDB, AWS |
+| **MindPad**                           | Full-stack notes app with JWT auth & Redux                     | React, Node.js, MongoDB, AWS        |
+| **ChowPOS Online**                    | POS-integrated ordering platform with QR payments              | PHP, React, MySQL                   |
+| **Automation Tools**                  | Web/OS automation for data extraction                          | Python, AWS Lambda                  |
 
 ---
 
