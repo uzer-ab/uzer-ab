@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:uzair.swe@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/uzera"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="http://uzzair.online"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=safari&logoColor=white"/></a>
+  <a href="https://codefolio.uzzair.online/portfolio"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=safari&logoColor=white"/></a>
 </p>
 
 ---
@@ -20,7 +20,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,fastapi,php,mysql,mongodb,postgres,aws,docker,git,redux,electron&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,nodejs,react,nextjs,fastapi,php,mysql,mongodb,postgres,aws,docker,git,redux,linux&perline=7" />
 </p>
 
 ---
@@ -30,20 +30,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
   <img src="https://img.shields.io/badge/Claude_Code-CC9B7A?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Copilot"/>
 </p>
 
 ---
 
 ### 🏗️ What I Build
 
-| Project                               | Description                                                    | Stack                               |
-| ------------------------------------- | -------------------------------------------------------------- | ----------------------------------- |
-| **Portfolio Website** _(In Progress)_ | Personal portfolio with dynamic project showcase & admin panel | Next.js, PostgreSQL                 |
-| **BX-Blogs**                          | Full-stack blog platform with rich text editor & JWT sessions  | React, Redux, Node.js, MongoDB, AWS |
-| **MindPad**                           | Full-stack notes app with JWT auth & Redux                     | React, Node.js, MongoDB, AWS        |
-| **ChowPOS Online**                    | POS-integrated ordering platform with QR payments              | PHP, React, MySQL                   |
-| **Automation Tools**                  | Web/OS automation for data extraction                          | Python, AWS Lambda                  |
+| Project                                           | Description                                                                                               | Stack                               |
+| ------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| [**CodeFolio**](https://codefolio.uzzair.online/) | Modern, high-performance portfolio builder for developers with dynamic project showcase & admin dashboard | Next.js, PostgreSQL, TypeScript     |
+| [**BX-Blogs**](https://bx-blogs.uzzair.online/)   | Full-stack blog platform with rich text editor & JWT sessions                                             | React, Redux, Node.js, MongoDB, AWS |
+| **MindPad**                                       | Full-stack notes app with JWT auth & Redux                                                                | React, Node.js, MongoDB, AWS        |
+| **ChowPOS Online**                                | POS-integrated ordering platform with QR payments                                                         | PHP, React, MySQL                   |
+| **Automation Tools**                              | Web/OS automation for data extraction                                                                     | Python, AWS Lambda                  |
 
 ---
 
