@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Python+%7C+Node.js+%7C+React;Building+Scalable+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full-Stack+Developer;Node.js+%7C+Python+%7C+React.js;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -56,6 +56,6 @@
 ---
 
 <p align="center">
-  <a href="http://trysoftai.com/"><img src="https://img.shields.io/badge/🚀_Currently_Building-Try_Soft_AI-6366F1?style=flat-square"/></a>
+  <a href="http://trysoftai.com/"><img src="https://img.shields.io/badge/🚀_Currently_Building-AIO-6366F1?style=flat-square"/></a>
   <img src="https://komarev.com/ghpvc/?username=uzer-ab&style=flat-square&color=6366F1" alt="views"/>
 </p>
